@@ -1,0 +1,49 @@
+== ES 2017/2018 ==
+https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e
+
+== maj nodejs version ==
+https://github.com/creationix/nvm
+
+== standard node.js ==
+https://github.com/standard/standard
+
+== begin node.js ==
+https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5 
+https://medium.freecodecamp.org/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2 
+
+
+=== debugging ====
+https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27 
+
+=== modules npm ===
+https://medium.freecodecamp.org/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8 
+
+=== 20 modules à connaitre ===
+https://www.creativebloq.com/features/20-nodejs-modules-you-need-to-know
+
+
+=== publishing modules
+https://codeburst.io/how-to-create-and-publish-your-first-node-js-module-444e7585b738
+
+== node.js without web ==
+https://medium.com/dailyjs/how-i-automated-my-job-with-node-js-94bf4e423017
+https://medium.com/@kieranmaher13/why-i-use-nodejs-for-basically-everything-i-do-e0a627787ecc 
+
+== mastering node.js ==
+https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a
+
+=== event driver ====
+https://medium.freecodecamp.org/understanding-node-js-event-driven-architecture-223292fcbc2d
+
+=== microservice and docker ===
+https://medium.com/@cramirez92/build-a-nodejs-cinema-microservice-and-deploying-it-with-docker-part-1-7e28e25bfa8b
+
+=== more about node.js ===
+https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f 
+
+=== extras ===
+https://medium.freecodecamp.org/how-i-built-a-job-scraping-web-app-using-node-js-and-indreed-7fbba124bbdc 
+
+=== best pratices ===
+https://github.com/i0natan/nodebestpractices
+
