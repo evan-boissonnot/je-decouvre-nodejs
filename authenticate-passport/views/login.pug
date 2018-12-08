@@ -1,0 +1,10 @@
+.login-view
+    form.signin(method="post", action="/signIn")
+        p.row
+            label Login
+            input.field(name="login")
+        p.row
+            label Password
+            input.field(name="password")
+        p.row
+            button.valid-form(type="submit")

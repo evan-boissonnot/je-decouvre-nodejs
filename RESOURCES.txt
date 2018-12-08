@@ -51,3 +51,5 @@ https://github.com/i0natan/nodebestpractices
 === authenticating ===
 be carefull : https://hackernoon.com/your-node-js-authentication-tutorial-is-wrong-f1a3bf831a46
 http://www.passportjs.org/docs/downloads/html/ 
+
+http://programmerblog.net/nodejs-passport-login-mysql/
