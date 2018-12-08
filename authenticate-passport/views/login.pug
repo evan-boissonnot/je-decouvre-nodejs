@@ -1,10 +1,16 @@
-.login-view
-    form.signin(method="post", action="/signIn")
-        p.row
-            label Login
-            input.field(name="login")
-        p.row
-            label Password
-            input.field(name="password")
-        p.row
-            button.valid-form(type="submit")
+extends layout
+block content
+    .login-view
+        - if(message) {
+            b message
+        - }
+
+        form.signin(method="post", action="/signin")
+            p.row
+                label Login
+                input.field(name="username")
+            p.row
+                label Password
+                input.field(name="password")
+            p.row
+                button.valid-form(type="submit")

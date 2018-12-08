@@ -3,6 +3,7 @@
 /**
  * Module dependencies.
  */
+process.env.NODE_CONFIG_DIR = __dirname + "/config";
 
 var app = require('../app');
 var debug = require('debug')('authenticate-passport:server');

@@ -53,3 +53,10 @@ be carefull : https://hackernoon.com/your-node-js-authentication-tutorial-is-wro
 http://www.passportjs.org/docs/downloads/html/ 
 
 http://programmerblog.net/nodejs-passport-login-mysql/
+
+==== avec facebook ====
+https://github.com/passport/express-4.x-facebook-example/blob/master/server.js 
+
+==== local strategy avec mysql ====
+http://programmerblog.net/nodejs-passport-login-mysql/
+https://github.com/programmer-blog/nodejs-passportjs-login-mysql/tree/master/routes 
