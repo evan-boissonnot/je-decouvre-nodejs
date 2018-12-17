@@ -67,9 +67,7 @@ app.get('/login/facebook/return',
     res.redirect('/');
   });
 
-app.get('/profile',
-  require('connect-ensure-login').ensureLoggedIn(),
-  function(req, res){
+app.get('/profile',   require('connect-ensure-login').ensureLoggedIn(),   function(req, res){
     console.log(req.user);
     res.render('profile', { user: req.user });
   });
